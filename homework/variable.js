@@ -1,3 +1,5 @@
+//HW day 20 (fisrt day)
+
 country = 'Brazil'
 continent = "America Latina"
 population = 360000000
